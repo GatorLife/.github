@@ -1,7 +1,7 @@
 # GATOR Mission & Vision Statements
 ### Mission:
 
-**"To equip Cyber Warfare Operators with realistic, adaptive, AI-driven training environments and analytics that optimize readiness and operational excellence."**
+**"To equip Cyber Warfare Operators with realistic, adaptive, AI-driven training environments with analytics that optimize readiness and operational excellence."**
 
 ### Vision:
 
