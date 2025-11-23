@@ -1,4 +1,4 @@
-# .github
+# GATOR Mission & Vision Statements
 ### Mission:
 
 **"To equip Cyber Warfare Operators with realistic, adaptive, AI-driven training environments and analytics that optimize readiness and operational excellence."**
